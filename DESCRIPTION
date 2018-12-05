@@ -1,7 +1,6 @@
 Package: RCIT
 Type: Package
-Title: The Randomized Conditional Independence Test (RCIT) and the Randomized
-    conditional Correlation Test (RCoT)
+Title: The Randomized Conditional Independence Test (RCIT) and the Randomized conditional Correlation Test (RCoT)
 Version: 0.1.0
 Author: Eric V. Strobl
 Maintainer:  Eric V. Strobl <ericvonstrobl@gmail.com>
